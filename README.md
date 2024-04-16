@@ -9,10 +9,7 @@
 
 - *Languages*: Python , MySQL
 
-- *Libraries*: Seaborn , Scikit , Pandas , Numpy , Matplotlib
-
-- *Algorithms* , *Data-structures*
-    
+- *Libraries*: Seaborn , Scikit , Pandas , Numpy , Matplotlib    
 - 👯 I’m looking to collaborate on DataScience projects
 - 📫 How to reach me: Connect with me on *[Linkedin](https://www.linkedin.com/in/isheetasharma26/)*  
 - 💬 Ask me about DataScience, Analysis & Visualization , Python , SQL
