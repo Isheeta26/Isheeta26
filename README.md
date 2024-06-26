@@ -12,5 +12,5 @@
 - *Libraries*: Seaborn, Scikit, Pandas, Numpy, Matplotlib    
 - 👯 I’m looking to collaborate on Data Science and Data Analytics projects
 - 📫 How to reach me: Connect with me on *[Linkedin](https://www.linkedin.com/in/isheetasharma26/)*  
-- 💬 Ask me about Data Science, Analysis & Visualization, Python, SQL, Machine Learning
+- 💬 Ask me about Data Science, Analysis & Visualization, Python, SQL, Machine Learning, Deep Learning, Neural Network, Natural Language Processing (NLP)
   
