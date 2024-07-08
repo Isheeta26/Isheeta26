@@ -14,3 +14,9 @@
 - 📫 How to reach me: Connect with me on *[Linkedin](https://www.linkedin.com/in/isheetasharma26/)*  
 - 💬 Ask me about Data Science, Analysis & Visualization, Python, SQL, Machine Learning, Deep Learning, Neural Network, Natural Language Processing (NLP)
   
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="100" height="100"/>
+  <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" width="100" height="50"/>
+  <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI" width="100" height="50"/>
+
+</p>
